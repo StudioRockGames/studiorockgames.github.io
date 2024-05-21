@@ -2,6 +2,8 @@
 layout: page
 title: Política de Privacidade de Aplicativos
 permalink: /politica-de-privacidade-de-aplicativos/
+redirect_from:
+  - /politica-de-privacidade-de-aplicativos.html
 ---
 
 <h5>Última atualização: 20/05/2024</h5>
