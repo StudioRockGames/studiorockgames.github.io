@@ -6,7 +6,7 @@ permalink: /politica-de-privacidade-de-aplicativos/
  
 <h1>Política de Privacidade de Aplicativos</h1>
 <p>Essa política de privacidade se refere aos aplicativos:</p>
-<p>Desafio Estelar</p>
+<p>- Desafio Estelar</p>
 <h4>Informações fornecidas pelo usuário</h4>
 <p>As informações fornecidas dentro dos recursos dos aplicativos são armazenadas apenas para funcionamento do aplicativo.</p>
 <h4>Coleta automática de informações</h4>
