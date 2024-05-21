@@ -10,7 +10,7 @@ permalink: /politica-de-privacidade-de-aplicativos/
 
 <p>Esta Política de Privacidade se aplica aos seguintes aplicativos:</p>
 
-<p><b>• Desafio Estelar</b></p>
+<p><b>• <a href="https://play.google.com/store/apps/details?id=com.studiorock.game">Desafio Estelar</a></b></p>
 <h2>1. Coleta e Uso de Informações</h2>
 <h3>1.1. Informações Coletadas</h3>
 
