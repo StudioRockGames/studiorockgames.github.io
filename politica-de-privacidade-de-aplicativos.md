@@ -3,8 +3,7 @@ layout: page
 title: Política de Privacidade de Aplicativos
 permalink: /politica-de-privacidade-de-aplicativos/
 ---
- 
-<h1>Política de Privacidade de Aplicativos</h1>
+
 <p>Essa política de privacidade se refere aos aplicativos:</p>
 <p>- Desafio Estelar</p>
 <h4>Informações fornecidas pelo usuário</h4>
