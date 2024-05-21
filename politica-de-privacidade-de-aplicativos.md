@@ -10,15 +10,15 @@ permalink: /politica-de-privacidade-de-aplicativos/
 
 <p>Esta Política de Privacidade se aplica aos seguintes aplicativos:</p>
 
-<p><b>• <a href="https://play.google.com/store/apps/details?id=com.studiorock.game">Desafio Estelar</a></b></p>
+<p><b>• <a href="https://play.google.com/store/apps/details?id=com.studiorock.game" target="_blank">Desafio Estelar</a></b></p>
 <h2>1. Coleta e Uso de Informações</h2>
 <h3>1.1. Informações Coletadas</h3>
 
 <p>Não coletamos diretamente informações pessoais ou dados dos usuários em nossos aplicativos. No entanto, utilizamos serviços de terceiros que podem coletar informações para fornecer seus serviços:</p>
 
-<p><b>• Google Play Games:</b> Nossos jogos utilizam Google Play Games Services para funcionalidades como conquistas, placares e salvamento em nuvem. O Google Play Games pode coletar informações como identificadores de jogador e dados de desempenho no jogo. Para mais detalhes sobre como o Google Play Games coleta e utiliza informações, consulte a <a href="https://policies.google.com/privacy">Política de Privacidade do Google</a>.</p>
+<p><b>• Google Play Games:</b> Nossos jogos utilizam Google Play Games Services para funcionalidades como conquistas, placares e salvamento em nuvem. O Google Play Games pode coletar informações como identificadores de jogador e dados de desempenho no jogo. Para mais detalhes sobre como o Google Play Games coleta e utiliza informações, consulte a <a href="https://policies.google.com/privacy" target="_blank">Política de Privacidade do Google</a>.</p>
 
-<p><b>• Google AdMob:</b> Usamos Google AdMob para exibir anúncios em nossos jogos. O AdMob pode coletar informações, incluindo identificadores de dispositivos móveis (ID de publicidade), dados de interação com anúncios e outros dados de uso. Para mais detalhes sobre a coleta de dados pelo AdMob, consulte a <a href="https://policies.google.com/privacy">Política de Privacidade do Google</a>.</p>
+<p><b>• Google AdMob:</b> Usamos Google AdMob para exibir anúncios em nossos jogos. O AdMob pode coletar informações, incluindo identificadores de dispositivos móveis (ID de publicidade), dados de interação com anúncios e outros dados de uso. Para mais detalhes sobre a coleta de dados pelo AdMob, consulte a <a href="https://policies.google.com/privacy" target="_blank">Política de Privacidade do Google</a>.</p>
 
 <h2>2. Compartilhamento de Informações</h2>
 <p>Como mencionado, não coletamos diretamente dados dos usuários. As informações coletadas pelos serviços de terceiros (Google Play Games e AdMob) são gerenciadas por esses serviços conforme suas respectivas políticas de privacidade.</p>
