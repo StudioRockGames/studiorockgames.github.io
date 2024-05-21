@@ -18,7 +18,7 @@ permalink: /sobre/
 
 ### Sobre a equipe
 
-<p>CEO: Meu nome é David, tenho 25 anos e estou finalmente trablhando com oque sempre sonhei em fazer, jogos!</p>
+<p>Meu nome é David, tenho 25 anos e estou finalmente trablhando com oque sempre sonhei em fazer, jogos!</p>
 
 ### Entre em contato comigo
 
