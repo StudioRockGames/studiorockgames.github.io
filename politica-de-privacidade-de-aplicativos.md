@@ -25,7 +25,7 @@ redirect_from:
 <h2>Retenção e Exclusão de Dados</h2>
 <h3>Retenção de Dados</h3>
 
-<p>Rocha Games não retém diretamente qualquer dado pessoal dos usuários.
+<p>Não retemos diretamente qualquer dado pessoal dos usuários.
 Os dados coletados pelos serviços de terceiros (como Google Play Games e Google AdMob) são retidos de acordo com as políticas de retenção de dados dessas plataformas. Recomendamos revisar as políticas de privacidade dos respectivos serviços para entender como seus dados são mantidos e protegidos.</p>
 
 <h3>Exclusão de Dados</h3>
