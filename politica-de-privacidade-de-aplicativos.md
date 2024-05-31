@@ -6,13 +6,14 @@ redirect_from:
   - /politica-de-privacidade-de-aplicativos.html
 ---
 
-<h5>Última atualização: 21/05/2024</h5>
+<h5>Última atualização: 30/05/2024</h5>
 
 <p>Esta Política de Privacidade descreve nossas políticas e procedimentos sobre a coleta, uso e divulgação de suas informações quando você usa nossos aplicativos e informa sobre seus direitos de privacidade e como a lei protege você.</p>
 
 <p>Esta Política de Privacidade se aplica aos seguintes aplicativos:</p>
 
 <p><b>• <a href="https://play.google.com/store/apps/details?id=com.studiorock.game" target="_blank">Desafio Estelar</a></b></p>
+<p><b>• <a href="https://play.google.com/store/apps/details?id=com.studiorock.game" target="_blank">Epidemia Zumbi: Paciente Zero</a></b></p>
 <h2>Coleta e Uso de Informações</h2>
 <h3>Informações Coletadas</h3>
 
@@ -44,7 +45,7 @@ Os dados coletados pelos serviços de terceiros (como Google Play Games e Google
 <p>Nossos serviços podem conter links para outros sites que não são operados por nós. Se você clicar em um link de terceiros, será direcionado ao site desse terceiro. Recomendamos fortemente que você reveja a Política de Privacidade de cada site que visita. Não temos controle e não assumimos responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.</p>
 
 <h2>Privacidade das Crianças</h2>
-<p>Nossos aplicativos são destinados a todas as idades, a partir de 6 anos. Não coletamos intencionalmente informações pessoais de crianças. Os serviços de terceiros que utilizamos (Google Play Games e AdMob) podem coletar dados conforme suas próprias políticas de privacidade.</p>
+<p>Alguns de nossos aplicativos são destinados a todas as idades, a partir de 6 anos. Não coletamos intencionalmente informações pessoais de crianças. Os serviços de terceiros que utilizamos (Google Play Games e AdMob) podem coletar dados conforme suas próprias políticas de privacidade.</p>
 
 <p>Se você é pai/mãe ou responsável e está ciente de que seu filho nos forneceu dados pessoais através desses serviços de terceiros, entre em contato conosco. Se tomarmos conhecimento de que coletamos dados pessoais de crianças sem verificação do consentimento dos pais, tomaremos medidas para remover essas informações de nossos servidores.</p>
 
