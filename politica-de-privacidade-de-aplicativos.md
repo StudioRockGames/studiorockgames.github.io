@@ -13,7 +13,7 @@ redirect_from:
 <p>Esta Política de Privacidade se aplica aos seguintes aplicativos:</p>
 
 <p><b>• <a href="https://play.google.com/store/apps/details?id=com.studiorock.game" target="_blank">Desafio Estelar</a></b></p>
-<p><b>• <a href="https://play.google.com/store/apps/details?id=com.studiorock.game" target="_blank">Epidemia Zumbi: Paciente Zero</a></b></p>
+<p><b>• Epidemia Zumbi: Paciente Zero</b></p>
 <h2>Coleta e Uso de Informações</h2>
 <h3>Informações Coletadas</h3>
 
